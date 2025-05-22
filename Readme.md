@@ -1,7 +1,7 @@
 # My repository of SQL queries:
 - [Basics of SQL](SQL_basics.md)
-- [MySQL Employee database queries](MySQL_EmployeeRecords_Rmarkdown.md)
-Follow above link for a demonstration of the following commands–
+- [MySQL Employee database queries](MySQL_EmployeeRecords_Rmarkdown.md)    
+Follow above link for a demonstration of the following commands–    
 ```sql
 
 use employee
